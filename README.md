@@ -18,7 +18,7 @@
   <img align="center" alt="Marenga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marenga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marenga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Marenga-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1059544951555375167/1059585039123361862/bf4d990b-86b0-44b6-a51c-13b50990b557.jpg?width=481&height=641">
+  <img align="right" alt="Marenga-pic" height="170" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1059544951555375167/1059585039123361862/bf4d990b-86b0-44b6-a51c-13b50990b557.jpg?width=481&height=641">
 </div>
   
   ##
