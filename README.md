@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="target" width="25" height="25"/>, I'm Wellington!</h1>
+<h1 align="left">Hi! I'm Wellington. <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="target" width="25" height="25"/></h1>
 <h3 align="left">I am passionate about technology and fascinated to be a part of, like a tiny neuron, this complex new world that will change the world forever. With my ethics and evolutionary mindset, I intend to use my skill set to ensure relevant information that guide us to a better world.</h3>
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" alt="target" width="25" height="25"/> My goal is to use data analysis to find answers to society's demands.
