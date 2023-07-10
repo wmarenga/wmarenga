@@ -33,7 +33,7 @@
   <img align="center" alt="Marenga-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Marenga-SQL_Serve" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="Marenga-SQL_Serve" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  <img align="right" alt="Well-pic" height="130" style="border-radius:40px;"src=https://github.com/wmarenga/wmarenga/assets/69227559/5a3f13e1-c083-4e45-9d79-623bcbd3cb03">
+  <img align="right" alt="Well-pic" width=120px Height=120px style=border-radius: 115px src="https://user-images.githubusercontent.com/69227559/252423593-70cf1649-1bba-4717-a2c5-4660a8cbb9cb.jpg">
 </div>
   
   ##
