@@ -1,5 +1,5 @@
-##Hello 👋 I'm Wellington.
-#Passionate about data science and analytics and Python Developer in the digital world.
+Hello 👋 I'm Wellington.
+Passionate about data science and analytics and Python Developer in the digital world.
 
 - :atom: I am passionate about data science and Python development in the digital world.
 - 🎯 My goal is to use data analysis to find answers to society's demands.
