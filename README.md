@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋, I'm Wellington.</h1>
+<h1 align="left">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="target" width="25" height="25"/>, I'm Wellington.</h1>
 <h3 align="lrft">I am passionate about technology and fascinated to be a part of, like a tiny neuron, this complex new world that will change the world forever. With my ethics and evolutionary mindset, I intend to use my skill set to ensure relevant information that guide us to a better world.</h3>
 
-- 🎯 My goal is to use data analysis to find answers to society's demands.
-- 🔋 I’m currently learning Hadoop and Big Data.
-- 🌱 I am currently looking for challenging projects in data analysis.
-- 💪 I’m looking to collaborate on data science projects.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" alt="target" width="25" height="25"/> My goal is to use data analysis to find answers to society's demands.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" alt="target" width="25" height="25"/> I’m currently learning Hadoop and Big Data.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" alt="target" width="25" height="25"/> I am currently looking for challenging projects in data analysis.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" alt="target" width="25" height="25"/> I’m looking to collaborate on data science projects.
 - 💬 Ask me about Python, Power BI and SQL.
 - 📨 How to reach me wmarenga44@gmail.com.
 - ↗️ Find out more about my professional career on [linkedIn](https://www.linkedin.com/in/wellington-m-0823372a)
