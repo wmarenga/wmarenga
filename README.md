@@ -10,7 +10,6 @@
 - ↗️ Find out more about my professional career on [linkedIn](https://www.linkedin.com/in/wellington-m-0823372a)
 - 📜 Know about my experiences [CV_Wellington_Marenga.pdf](https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf)
 
-
 <div align="center">
   <a href="https://github.com/wmarenga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmarenga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
