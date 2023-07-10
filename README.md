@@ -39,6 +39,7 @@
   ##
  
 <div>
+  <div>
   <h3 align="left">Connect with me:</h3>
   <a href="https://discord.gg/HtJ7Yq2Ztm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wmarenga44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -46,5 +47,5 @@
   <a href="https://instagram.com/marengadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/wmarenga/wmarenga/blob/output/github-contribution-grid-snake.svg)
- 
+ </div>
 </div>
