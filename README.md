@@ -1,13 +1,14 @@
 ##Hello 👋 I'm Wellington.
 #Passionate about data science and analytics and Python Developer in the digital world.
 
-- 🔭 I am passionate about data science and Python development in the digital world.
+- :atom: I am passionate about data science and Python development in the digital world.
 - 🎯 My goal is to use data analysis to find answers to society's demands.
 - 🔋 I’m currently learning Hadoop and Big Data.
 - 🌱 I am currently looking for challenging projects in data analysis.
 - 💪 I’m looking to collaborate on data science projects.
 - 💬 Ask me about Python, Power BI and SQL.
 - 📨 How to reach me wmarenga44@gmail.com.
+- Find out more about my professional career [linkedIn](https://www.linkedin.com/in/wellington-m-0823372a)
 - 📜 Know about my experiences [CV_Wellington_Marenga.pdf](https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf)
 
 
