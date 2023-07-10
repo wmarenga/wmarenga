@@ -1,8 +1,13 @@
-### Hello 👋 I'm Wellington. Production Engineer, Project Manager, Python Developer and data science analyst.
+Hello 👋 I'm Wellington. Passionate about data science and analytics and Python Developer in the digital world.
 
-- 🚀 I’m currently looking for challenges.
-- 🧱 I’m currently learning Django and SQL.
+- 🔭 I am passionate about data science and Python development in the digital world.
+- 🎯 My goal is to use data analysis to find answers to society's demands.
+- 🌱 I am currently looking for challenging projects in data analysis.
 - 💪 I’m looking to collaborate on data science projects.
+- 💬 Ask me about Python, Power BI and SQL.
+- 📫 How to reach me wmarenga44@gmail.com.
+- 📄 Know about my experiences [CV_Wellington_Marenga.pdf](https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf)
+
 
 <div align="center">
   <a href="https://github.com/wmarenga">
