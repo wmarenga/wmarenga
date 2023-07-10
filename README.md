@@ -5,10 +5,10 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" alt="target" width="25" height="25"/> I’m currently learning Hadoop and Big Data.
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" alt="target" width="25" height="25"/> I am currently looking for challenging projects in data analysis.
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" alt="target" width="25" height="25"/> I’m looking to collaborate on data science projects.
-- 💬 Ask me about Python, Power BI and SQL.
-- 📨 How to reach me wmarenga44@gmail.com.
-- ↗️ Find out more about my professional career on [linkedIn](https://www.linkedin.com/in/wellington-m-0823372a)
-- 📜 Know about my experiences [CV_Wellington_Marenga.pdf](https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f941/512.webp" alt="target" width="25" height="25"/> Ask me about Python, Power BI and SQL.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" alt="target" width="25" height="25"/> How to reach me wmarenga44@gmail.com.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f463/512.webp" alt="target" width="25" height="25"/> Find out more about my professional career on [linkedIn](https://www.linkedin.com/in/wellington-m-0823372a)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" alt="target" width="25" height="25"/> Know about my experiences [CV_Wellington_Marenga.pdf](https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf)
 
 <div align="center">
   <a href="https://github.com/wmarenga">
