@@ -28,6 +28,7 @@
   <img align="center" alt="Marenga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marenga-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Marenga-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img align="center" alt="Marenga-sql_server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/1059544951555375167/1059798150719746048/Untitled.png">
 </div>
   
