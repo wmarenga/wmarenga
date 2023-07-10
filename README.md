@@ -26,6 +26,7 @@
   <img align="center" alt="Marenga-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Marenga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marenga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marenga-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/1059544951555375167/1059798150719746048/Untitled.png">
 </div>
   
