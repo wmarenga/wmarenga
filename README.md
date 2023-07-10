@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wellington.</h1>
-<h3 align="center">A Passionate about data science and analytics and Python Developer in the digital world.</h3>
+<h1 align="left">Hi 👋, I'm Wellington.</h1>
+<h3 align="lrft">A Passionate about data science and analytics and Python Developer in the digital world.</h3>
 
 - :atom: I am passionate about data science and Python development in the digital world.
 - 🎯 My goal is to use data analysis to find answers to society's demands.
