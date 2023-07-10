@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Wellington.</h1>
-<h3 align="lrft">I am passionate about data science :atom: and Python development in the digital world</h3>
+<h3 align="lrft"> am passionate about technology and fascinated to be a part of, like a tiny neuron, this complex new world that will change the world forever. With my ethics and evolutionary mindset, I intend to use my skill set to ensure relevant information that guide us to a better world.</h3>
 
 - 🎯 My goal is to use data analysis to find answers to society's demands.
 - 🔋 I’m currently learning Hadoop and Big Data.
