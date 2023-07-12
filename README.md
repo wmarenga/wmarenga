@@ -25,27 +25,27 @@
   ![Python](https://img.shields.io/badge/Python-3-4C85F7?style=plastic&logo=python&logoColor=4C85F7&labelColor=FCEB54)
   ![R](https://img.shields.io/badge/R-008ED2?style=plastic&logo=r&logoColor=white)
   ![Django](https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white)
-  ![Python](https://img.shields.io/badge/pandas-070A6E?style=plastic&logo=pandas&logoColor=070A6E&labelColor=E4FBFD)
-  ![Python](https://img.shields.io/badge/docker-06ADE9?style=plastic&logo=docker&logoColor=06ADE9&labelColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/Jupyter-7C7A78?style=plastic&logo=jupyter&logoColor=FF9F0E&labelColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/VScode-0889FA?style=plastic&logo=visualstudiocode&logoColor=0889FA&labelColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/HTML-5-F96B0C?style=plastic&logo=html5&logoColor=F96B0C&labelColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/CSS-3-0749FF?style=plastic&logo=html5&logoColor=0749FF&labelColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/Linux-F69415?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/Git-F3493D?style=plastic&logo=git&logoColor=F3493D&labelColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/PostgreSQL-2276A6?style=plastic&logo=postgresql&logoColor=2276A6&labelColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/MySQL-F3A012?style=plastic&logo=mysql&logoColor=165884&labelColor=white)
-  ![Python](https://img.shields.io/badge/SQL_Server-807C7C?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white)
-  ![Python](https://img.shields.io/badge/PowerBI-EE9E00?style=plastic&logo=powerbi&logoColor=FCB21D&labelColor=white)
+  ![pandas](https://img.shields.io/badge/pandas-070A6E?style=plastic&logo=pandas&logoColor=070A6E&labelColor=E4FBFD)
+  ![docker](https://img.shields.io/badge/docker-06ADE9?style=plastic&logo=docker&logoColor=06ADE9&labelColor=FFFFFF)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-7C7A78?style=plastic&logo=jupyter&logoColor=FF9F0E&labelColor=FFFFFF)
+  ![VScode](https://img.shields.io/badge/VScode-0889FA?style=plastic&logo=visualstudiocode&logoColor=0889FA&labelColor=FFFFFF)
+  ![HTML5](https://img.shields.io/badge/HTML-5-F96B0C?style=plastic&logo=html5&logoColor=F96B0C&labelColor=FFFFFF)
+  ![CSS3](https://img.shields.io/badge/CSS-3-0749FF?style=plastic&logo=html5&logoColor=0749FF&labelColor=FFFFFF)
+  ![Linux](https://img.shields.io/badge/Linux-F69415?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF)
+  ![Git](https://img.shields.io/badge/Git-F3493D?style=plastic&logo=git&logoColor=F3493D&labelColor=FFFFFF)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2276A6?style=plastic&logo=postgresql&logoColor=2276A6&labelColor=FFFFFF)
+  ![MySQL](https://img.shields.io/badge/MySQL-F3A012?style=plastic&logo=mysql&logoColor=165884&labelColor=white)
+  ![SQL_Server](https://img.shields.io/badge/SQL_Server-807C7C?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white)
+  ![PowerBI](https://img.shields.io/badge/PowerBI-EE9E00?style=plastic&logo=powerbi&logoColor=FCB21D&labelColor=white)
   
   ##
- 
+
 <div>
   <div>
   <h3 align="left">Connect with me:</h3>
-  <a href="https://discord.gg/HtJ7Yq2Ztm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wmarenga44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wellington-m-0823372a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/HtJ7Yq2Ztm" target="_blank"><img src="https://img.shields.io/badge/Discord-B3B8FF?style=plastic&logo=discord&logoColor=245DF9&labelColor=DFE8FF" target="_black" width=13% height=13%")></a>
+  <a href = "mailto:wmarenga44@gmail.com"><img src="https://img.shields.io/badge/Gmail-EEE3D4?style=plastic&logo=gmail&logoColor=DA4A2D" target="_blank" width=10% height=10%></a>
+  <a href="https://www.linkedin.com/in/wellington-m-0823372a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-68A5FF?style=plastic&logo=linkedin&logoColor=1A68DC&labelColor=FFFFFF" target="_blank" width=13% height=13%"></a>
   <a href="https://instagram.com/marengadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/wmarenga/wmarenga/blob/output/github-contribution-grid-snake.svg)
