@@ -32,9 +32,8 @@
     <a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-4D4D4C?style=plastic&logo=jupyter&logoColor=FF9F0E&labelColor=FFFFFF" width=7.4% height=7.4%></a>
     <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VScode-0889FA?style=plastic&logo=visualstudiocode&logoColor=0889FA&labelColor=FFFFFF" width=7.4% height=7.4%></a>
     <a href="https://dev.w3.org/html5/spec-LC" target="_blank"><img src="https://img.shields.io/badge/HTML-5-F96B0C?style=plastic&logo=html5&logoColor=F96B0C&labelColor=FFFFFF" width=7.4% height=7.4%></a>
-    
-  ![HTML5]()
-  ![CSS3](https://img.shields.io/badge/CSS-3-0749FF?style=plastic&logo=html5&logoColor=0749FF&labelColor=FFFFFF)
+    <a href="https://www.w3schools.com/cssref/index.php" target="_blank"><img src="https://img.shields.io/badge/CSS-3-0749FF?style=plastic&logo=html5&logoColor=0749FF&labelColor=FFFFFF" width=6.5% height=6.5%></a>
+
   ![Linux](https://img.shields.io/badge/Linux-F69415?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF)
   ![Git](https://img.shields.io/badge/Git-F3493D?style=plastic&logo=git&logoColor=F3493D&labelColor=FFFFFF)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2276A6?style=plastic&logo=postgresql&logoColor=2276A6&labelColor=FFFFFF)
