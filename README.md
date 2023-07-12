@@ -38,8 +38,7 @@
     <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-2276A6?style=plastic&logo=postgresql&logoColor=2276A6&labelColor=FFFFFF" width="auto" height=9.7%></a>
     <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-0C93A2?style=plastic&logo=mysql&logoColor=165884&labelColor=white" width="auto" height=9.7%></a>
     <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-C6001A?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white" width="auto" height=9.7%></a>
-    
-  ![PowerBI](https://img.shields.io/badge/PowerBI-EE9E00?style=plastic&logo=powerbi&logoColor=FCB21D&labelColor=white)
+    <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-CB8E00?style=plastic&logo=powerbi&logoColor=FCB21D&labelColor=white" width="auto" height=9.7%></a>
 
   ##
 
