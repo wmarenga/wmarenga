@@ -43,7 +43,7 @@
 <div>
   <div>
   <h3 align="left">Connect with me:</h3>
-  <a href="https://discord.gg/HtJ7Yq2Ztm" target="_self" ><img src="https://img.shields.io/badge/Discord-B3B8FF?style=plastic&logo=discord&logoColor=245DF9&labelColor=DFE8FF" width=13% height=13%")></a>
+  <a href="https://discord.gg/HtJ7Yq2Ztm" target="_blank" ><img src="https://img.shields.io/badge/Discord-B3B8FF?style=plastic&logo=discord&logoColor=245DF9&labelColor=DFE8FF" width=13% height=13%")></a>
   <a href = "mailto:wmarenga44@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EEE3D4?style=plastic&logo=gmail&logoColor=DA4A2D" width=10% height=10%></a>
   <a href="https://www.linkedin.com/in/wellington-m-0823372a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-68A5FF?style=plastic&logo=linkedin&logoColor=1A68DC&labelColor=FFFFFF" width=13% height=13%"></a>
   <a href="https://instagram.com/marengadev" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFB569?style=plastic&logo=instagram&logoColor=F63576&labelColor=FFFFFF" ></a>
