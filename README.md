@@ -24,9 +24,9 @@
 <div style="display: inline_block">
   <h3 align="left">Languages and Tools:</h3>
 
-  <a href="https://www.python.org" target="_blank" ><img src="https://img.shields.io/badge/Python-3-4C85F7 style=plastic&logo=python&logoColor=4C85F7&labelColor=FCEB54" width=8% height=8%></a>
+  <a href="https://www.python.org" target="_blank" ><img src="https://img.shields.io/badge/Python-3-4C85F7?style=plastic&logo=python&logoColor=4C85F7&labelColor=FCEB54" width=8% height=8%></a>
   
-  ![Python](https://img.shields.io/badge/Python-3-4C85F7?style=plastic&logo=python&logoColor=4C85F7&labelColor=FCEB54)
+  ![Python](
   ![R](https://img.shields.io/badge/R-008ED2?style=plastic&logo=r&logoColor=white)
   ![Django](https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-070A6E?style=plastic&logo=pandas&logoColor=070A6E&labelColor=E4FBFD)
