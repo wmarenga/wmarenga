@@ -36,9 +36,9 @@
     <a href="https://www.kali.org" target="_blank"><img src="https://img.shields.io/badge/Linux-F69415?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF" width="auto" height=6.1%></a>
     <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F3493D?style=plastic&logo=git&logoColor=F3493D&labelColor=FFFFFF" width="auto" height=4.7%></a>
     <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-2276A6?style=plastic&logo=postgresql&logoColor=2276A6&labelColor=FFFFFF" width="auto" height=9.7%></a>
-        
-  ![MySQL](https://img.shields.io/badge/MySQL-F3A012?style=plastic&logo=mysql&logoColor=165884&labelColor=white)
-  ![SQL_Server](https://img.shields.io/badge/SQL_Server-807C7C?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white)
+    <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-0C93A2?style=plastic&logo=mysql&logoColor=165884&labelColor=white" width="auto" height=9.7%></a>
+    <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-C6001A?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white" width="auto" height=9.7%></a>
+    
   ![PowerBI](https://img.shields.io/badge/PowerBI-EE9E00?style=plastic&logo=powerbi&logoColor=FCB21D&labelColor=white)
 
   ##
