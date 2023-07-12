@@ -36,7 +36,6 @@
     <a href="https://docs.kernel.org" target="_blank"><img src="https://img.shields.io/badge/Linux-F69415?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF" width=6.1% height=6.1%></a>
     <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F3493D?style=plastic&logo=git&logoColor=F3493D&labelColor=FFFFFF" width=4.8% height=4.8%></a>
     
-  ![Git]()
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2276A6?style=plastic&logo=postgresql&logoColor=2276A6&labelColor=FFFFFF)
   ![MySQL](https://img.shields.io/badge/MySQL-F3A012?style=plastic&logo=mysql&logoColor=165884&labelColor=white)
   ![SQL_Server](https://img.shields.io/badge/SQL_Server-807C7C?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white)
