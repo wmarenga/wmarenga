@@ -18,21 +18,23 @@
 </div>
 <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
-  <img align="center" alt="Marenga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marenga-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Marenga-django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-  <img align="center" alt="Marenga-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Marenga-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Marenga-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Marenga-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Marenga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marenga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marenga-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Marenga-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Marenga-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Marenga-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Marenga-SQL_Serve" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-  <img align="center" alt="Marenga-SQL_Serve" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+
+  ![Python](https://img.shields.io/badge/Python-3-4C85F7?style=plastic&logo=python&logoColor=4C85F7&labelColor=FCEB54)
+  ![R](https://img.shields.io/badge/R-008ED2?style=plastic&logo=r&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white)
+  ![Python](https://img.shields.io/badge/pandas-070A6E?style=plastic&logo=pandas&logoColor=070A6E&labelColor=E4FBFD)
+  ![Python](https://img.shields.io/badge/docker-06ADE9?style=plastic&logo=docker&logoColor=06ADE9&labelColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/Jupyter-7C7A78?style=plastic&logo=jupyter&logoColor=FF9F0E&labelColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/VScode-0889FA?style=plastic&logo=visualstudiocode&logoColor=0889FA&labelColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/HTML-5-F96B0C?style=plastic&logo=html5&logoColor=F96B0C&labelColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/CSS-3-0749FF?style=plastic&logo=html5&logoColor=0749FF&labelColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/Linux-F69415?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/Git-F3493D?style=plastic&logo=git&logoColor=F3493D&labelColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/PostgreSQL-2276A6?style=plastic&logo=postgresql&logoColor=2276A6&labelColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/MySQL-F3A012?style=plastic&logo=mysql&logoColor=165884&labelColor=white)
+  ![Python](https://img.shields.io/badge/SQL_Server-807C7C?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white)
+  ![Python](https://img.shields.io/badge/PowerBI-EE9E00?style=plastic&logo=powerbi&logoColor=FCB21D&labelColor=white)
+  
   <kbd> <img width=120px src="https://user-images.githubusercontent.com/69227559/252423593-70cf1649-1bba-4717-a2c5-4660a8cbb9cb.jpg" /> </kbd>
 </div>
   
