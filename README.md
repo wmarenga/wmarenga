@@ -30,8 +30,9 @@
   <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/pandas-070A6E?style=plastic&logo=pandas&logoColor=070A6E&labelColor=E4FBFD" width=7.4% height=7.4%></a>
   <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/docker-06ADE9?style=plastic&logo=docker&logoColor=06ADE9&labelColor=FFFFFF" width=7.2% height=7.2%></a>
     <a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-4D4D4C?style=plastic&logo=jupyter&logoColor=FF9F0E&labelColor=FFFFFF" width=7.4% height=7.4%></a>
+    <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VScode-0889FA?style=plastic&logo=visualstudiocode&logoColor=0889FA&labelColor=FFFFFF" width=7.4% height=7.4%></a>
     
-  ![VScode](https://img.shields.io/badge/VScode-0889FA?style=plastic&logo=visualstudiocode&logoColor=0889FA&labelColor=FFFFFF)
+  ![VScode]()
   ![HTML5](https://img.shields.io/badge/HTML-5-F96B0C?style=plastic&logo=html5&logoColor=F96B0C&labelColor=FFFFFF)
   ![CSS3](https://img.shields.io/badge/CSS-3-0749FF?style=plastic&logo=html5&logoColor=0749FF&labelColor=FFFFFF)
   ![Linux](https://img.shields.io/badge/Linux-F69415?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF)
