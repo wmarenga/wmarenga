@@ -28,8 +28,8 @@
   <a href="https://www.r-project.org" target="_blank"><img src="https://img.shields.io/badge/R-008ED2?style=plastic&logo=r&logoColor=white" width=3.7% height=3.7%></a>
   <a href="https://www.djangoproject.com" target="_blank" ><img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white" width=6.8% height=6.8%></a>
   <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/pandas-070A6E?style=plastic&logo=pandas&logoColor=070A6E&labelColor=E4FBFD" width=7.4% height=7.4%></a>
-
-  ![docker](https://img.shields.io/badge/docker-06ADE9?style=plastic&logo=docker&logoColor=06ADE9&labelColor=FFFFFF)
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/docker-06ADE9?style=plastic&logo=docker&logoColor=06ADE9&labelColor=FFFFFF" width=7.2% height=7.2%></a>
+  
   ![Jupyter](https://img.shields.io/badge/Jupyter-7C7A78?style=plastic&logo=jupyter&logoColor=FF9F0E&labelColor=FFFFFF)
   ![VScode](https://img.shields.io/badge/VScode-0889FA?style=plastic&logo=visualstudiocode&logoColor=0889FA&labelColor=FFFFFF)
   ![HTML5](https://img.shields.io/badge/HTML-5-F96B0C?style=plastic&logo=html5&logoColor=F96B0C&labelColor=FFFFFF)
