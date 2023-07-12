@@ -10,6 +10,9 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f463/512.webp" alt="target" width="25" height="25"/> Find out more about my professional career on [linkedIn](https://www.linkedin.com/in/wellington-m-0823372a)
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" alt="target" width="25" height="25"/> Know about my experiences [CV_Wellington_Marenga.pdf](https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf)
 
+  <kbd> <img width=100px src="https://user-images.githubusercontent.com/69227559/252423593-70cf1649-1bba-4717-a2c5-4660a8cbb9cb.jpg"/> </kbd>
+</div>
+
 ##
 <div align="left">
   <a href="https://github.com/wmarenga">
@@ -34,9 +37,6 @@
   ![Python](https://img.shields.io/badge/MySQL-F3A012?style=plastic&logo=mysql&logoColor=165884&labelColor=white)
   ![Python](https://img.shields.io/badge/SQL_Server-807C7C?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white)
   ![Python](https://img.shields.io/badge/PowerBI-EE9E00?style=plastic&logo=powerbi&logoColor=FCB21D&labelColor=white)
-  
-  <kbd> <img width=120px src="https://user-images.githubusercontent.com/69227559/252423593-70cf1649-1bba-4717-a2c5-4660a8cbb9cb.jpg" /> </kbd>
-</div>
   
   ##
  
