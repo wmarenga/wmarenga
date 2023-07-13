@@ -18,8 +18,8 @@
       self.collaboration = "I'm looking to collaborate on data science <ul> projects."</ul>
       self.askme = "Ask me about Python, Power BI and SQL."<br>
       self.email = "How to reach me (wmarenga44@gmail.com)."
-      self.career = "Find out more about my professional career on <ul> linkedIn." </ul>
-      self.cv = "Know about my experiences" <a href="https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf">CV_Wellington_Marenga.pdf</a>
+      self.career = "Find out more about my professional career on <ul> <a href="https://www.linkedin.com/in/wellington-m-0823372a">LinkedIn</a>." </ul>
+      self.cv = "Know about my experiences" <a href="https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf">CV_Wellington</a>
     </ul>
   </ul>
   def say_hi(self):
