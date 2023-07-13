@@ -19,7 +19,7 @@
       self.askme = "Ask me about Python, Power BI and SQL."<br>
       self.email = "How to reach me (wmarenga44@gmail.com)."
       self.career = "Find out more about my professional career on <ul> linkedIn." </ul>
-      self.cv = "Know about my experiences"
+      self.cv = "Know about my experiences" <a href="[url](https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf)">CV_Wellington_Marenga.pdf</a>
     </ul>
   </ul>
   def say_hi(self):
