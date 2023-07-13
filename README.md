@@ -1,3 +1,43 @@
+<h3>
+  <h1>My Python Profile</h1>
+  class PythonDataAnalyst:<br>
+  <ul>
+    def __init__(self):
+    <ul>
+      self.name = "Hello World! I'm Wellington Marenga Junior."
+      self.aboutme = "I'am passionate about technology and fascinated<br><ul> 
+      to be a part of, like a tiny neuron, this complex new world 
+      that will change the world forever. With my ethics and
+      evolutionary mindset, I intend to use my skill set to ensure
+      relevant information that guide us to a better world."</ul>
+      self.goal = "My goal is to use data analysis to find answers to 
+      <ul> society's demands."</ul>
+      self.learning = "I'm currently learning Hadoop and Big Data."
+      self.challenge = "I'm currently looking for challenging projects in 
+      <ul> data analysis."</ul>
+      self.collaboration = "I'm looking to collaborate on data science <ul> projects."</ul>
+      self.askme = "Ask me about Python, Power BI and SQL."<br>
+      self.email = "How to reach me (wmarenga44@gmail.com)."
+      self.career = "Find out more about my professional career on <ul> linkedIn." </ul>
+      self.cv = "Know about my experiences"
+    </ul>
+  </ul>
+  def say_hi(self):
+  <ul>
+    print(f'{self.name} <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="target" width="25" height="25"/>')<br>
+    print(f'{self.aboutme}')<br>
+    print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" alt="target" width="25" height="25"/> {self.goal}')<br>
+    print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" alt="target" width="25" height="25"/> {self.learning}')<br>
+    print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" alt="target" width="25" height="25"/> {self.challenge}')<br>
+    print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" alt="target" width="25" height="25"/> {self.collaboration}')<br>
+    print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f941/512.webp" alt="target" width="25" height="25"/> {self.askme}')<br>
+    print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" alt="target" width="25" height="25"/> {self.email}')<br>
+    print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f463/512.webp" alt="target" width="25" height="25"/> {self.career}')<br>
+    print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" alt="target" width="25" height="25"/> {self.cv}')<br>
+    print("Thanks for dropping by!")<br>
+  </ul>
+</h3>
+
 <h1 align="left">Hi! I'm Wellington.<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="target" width="25" height="25"/></h1>
 <h3 align="left">I am passionate about technology and fascinated to be a part of, like a tiny neuron, this complex new world that will change the world forever. With my ethics and evolutionary mindset, I intend to use my skill set to ensure relevant information that guide us to a better world.</h3>
 
