@@ -1,3 +1,45 @@
+<h3>
+    <h1>My Python Profile</h1>
+    class PythonDataAnalyst:<br>
+    <ul>
+      def __init__(self):
+      <ul>
+        self.name = "Hello World! I'm Wellington Marenga Junior."
+        self.aboutme = "I'am passionate about technology and fascinated<br><ul> 
+        to be a part of, like a tiny neuron, this complex new world 
+        that will change the world forever. With my ethics and
+        evolutionary mindset, I intend to use my skill set to ensure
+        relevant information that guide us to a better world."</ul>
+        self.goal = "My goal is to use data analysis to find answers to 
+        <ul> society's demands."</ul>
+        self.learning = "I'm currently learning Hadoop and Big Data."
+        self.challenge = "I'm currently looking for challenging projects in 
+        <ul> data analysis."</ul>
+        self.collaboration = "I'm looking to collaborate on data science <ul> projects."</ul>
+        self.askme = "Ask me about Python, Power BI and SQL."<br>
+        self.email = "How to reach me (wmarenga44@gmail.com)."
+        self.career = "Find out more about my professional career on <ul> <a href="https://www.linkedin.com/in/wellington-m-0823372a">LinkedIn</a>." </ul>
+        self.cv = "Know about my experiences" <a href="https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf">CV_Wellington</a>
+      </ul>
+    </ul>
+    def say_hi(self):
+    <ul>
+      print(f'{self.name} <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="target" width="25" height="25"/>', end=2*'\n')<br>
+      print(f'{self.aboutme}', end=2*'\n')<br>
+      print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" alt="target" width="25" height="25"/> {self.goal}')<br>
+      print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" alt="target" width="25" height="25"/> {self.learning}')<br>
+      print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" alt="target" width="25" height="25"/> {self.challenge}')<br>
+      print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" alt="target" width="25" height="25"/> {self.collaboration}')<br>
+      print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f941/512.webp" alt="target" width="25" height="25"/> {self.askme}')<br>
+      print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" alt="target" width="25" height="25"/> {self.email}')<br>
+      print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f463/512.webp" alt="target" width="25" height="25"/> {self.career}')<br>
+      print(f'- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" alt="target" width="25" height="25"/> {self.cv}', end=2*'\n')<br>
+      print("Thanks for dropping by!")<br>
+    </ul>
+    me = PythonDataAnalyst()<br>
+    me.say_hi()
+  </h3>
+
 <h1 align="left">Hi! I'm Wellington.<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="target" width="25" height="25"/></h1>
 <h3 align="left">I am passionate about technology and fascinated to be a part of, like a tiny neuron, this complex new world that will change the world forever. With my ethics and evolutionary mindset, I intend to use my skill set to ensure relevant information that guide us to a better world.</h3>
 
@@ -50,8 +92,6 @@
   <a href="https://instagram.com/marengadev" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF5757?style=for-the-badge&logo=instagram&logoColor=F63576&labelColor=FFFFFF" width="auto" height=15%"></a>
   <a href="https://www.linkedin.com/in/wellington-m-0823372a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-68A5FF?style=for-the-badge&logo=linkedin&logoColor=1A68DC&labelColor=FFFFFF" width="auto" height=15%"></a>
 
- 
-  ![Snake animation](https://github.com/wmarenga/wmarenga/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wmarenga/wmarenga/blob/output/github-contribution-grid-snake.svg)
  </div>
 </div>
-
