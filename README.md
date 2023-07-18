@@ -92,7 +92,6 @@
   <a href="https://instagram.com/marengadev" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF5757?style=for-the-badge&logo=instagram&logoColor=F63576&labelColor=FFFFFF" width="auto" height=15%"></a>
   <a href="https://www.linkedin.com/in/wellington-m-0823372a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-68A5FF?style=for-the-badge&logo=linkedin&logoColor=1A68DC&labelColor=FFFFFF" width="auto" height=15%"></a>
 
- 
   ![Snake animation](https://github.com/wmarenga/wmarenga/blob/output/github-contribution-grid-snake.svg)
  </div>
 </div>
