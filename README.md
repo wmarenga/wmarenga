@@ -61,7 +61,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmarenga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmarenga&layout=compact&langs_count=7&theme=algolia"/>
 
-##
+***
 </div>
 <div style="display: inline_block">
   <h3 align="left">Languages and Tools:</h3>
@@ -82,7 +82,7 @@
     <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-C6001A?style=plastic&logo=microsoftsqlserver&logoColor=E80303&labelColor=white" width="auto" height=9.7%></a>
     <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-CB8E00?style=plastic&logo=powerbi&logoColor=FCB21D&labelColor=white" width="auto" height=9.7%></a>
 
-  ##
+***
 
 <div>
   <div>
