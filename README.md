@@ -53,7 +53,6 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" alt="target" width="25" height="25"/> Know about my experiences [CV_Wellington_Marenga.pdf](https://github.com/wmarenga/wmarenga/files/12000051/CV_Wellington_Marenga.pdf)
 
 ***
-
 <img src="https://user-images.githubusercontent.com/69227559/253050042-95b0653d-0a02-4f29-8628-5788295f1151.png" width=200px align="right" />
 <br>
 <div align="left">
